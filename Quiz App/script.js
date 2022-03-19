@@ -5,7 +5,7 @@ const quizData = [
         b: 'Ken Thompson',
         c: 'Brian Kernighan',
         d: 'Bjarne Stroustrup',
-        ans: 'ans4'
+        ans: 'ans1'
     },
     {
         question: 'Q2. What is C++?',
